@@ -1,0 +1,10 @@
+default_context:
+  author_email: Your email address (eq. john.doe@wolt.com)
+  author_name: Your name
+  fastapi_server: false
+  grpc_server: true
+  kafka_consumer: false
+  package_name: test_g
+  project_name: test-g
+  project_short_description: g
+  project_slug: test-g
